@@ -1,0 +1,7 @@
+colorama
+platform
+subprocess
+getpass
+os
+requests
+time
