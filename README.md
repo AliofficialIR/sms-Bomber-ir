@@ -25,8 +25,10 @@
   <p>3.</p>
   <pre>$gti clone https://github.com/AliofficialIR/sms-Bomber-ir</pre>
   <p>4.</p>
-  <pre>$pip install -r requirments.txt</pre>
+  <pre>$cd sms-Bomber-ir</pre>
   <p>5.</p>
+  <pre>$pip install -r requirments.txt</pre>
+  <p>6.</p>
   <pre>$python bot.py</pre>
 </div>
 <p>------------------------------------------------------------------------------------------------------------------------------------------</p>
